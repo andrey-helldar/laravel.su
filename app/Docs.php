@@ -19,7 +19,7 @@ class Docs
     /**
      * Default version of Laravel documentation
      */
-    public const DEFAULT_VERSION = '10.x';
+    public const DEFAULT_VERSION = '11.x';
 
     /**
      * Array of supported versions
